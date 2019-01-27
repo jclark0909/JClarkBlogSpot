@@ -7,10 +7,10 @@ baseurl: "/Pudhina" # the subpath of your site, e.g. /blog/
 url: "https://knhash.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
+  fullname: JaredClark
   github: github
-  linkedin: linkedin
-  email: example@email.com
+  linkedin: https://www.linkedin.com/in/jared-clark-549a0435/
+  email: jclark0909@gmail.com
 
 
 # Syntax highlighting
