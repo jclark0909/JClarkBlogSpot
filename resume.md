@@ -22,7 +22,7 @@ High School stuff.
 
 ### EXPERIENCE
 
-Juniorr Build and Release Engineer - **SentryOne** <span style="float: right; ">Duration</span>  
+Juniorr Build and Release Engineer - **SentryOne** <span style="float: right; ">Duration - Apr 2018 – Present</span>  
 
 Assist in the design, configuration and maintenance of automation tools for continuous integration and continuous delivery
 
@@ -43,7 +43,7 @@ Write tools/utilities/scripts to simplify or automate day-to-day tasks
 Technologies Packer, Azure DevOps, VSCode, Terraform, SQL Server, Visual Studio, SCVMM, PowerShell.
 
  
-Technical Support Engineer - **SentryOne** <span style="float: right; ">Duration</span>  
+Technical Support Engineer - **SentryOne** <span style="float: right; ">Duration - Mar 2017 – Apr 2018</span>  
 
 Take ownership of customer issues reported and see problems through to resolution
 
@@ -61,10 +61,10 @@ Document knowledge in the form of knowledge base tech notes and articles.
 
 Technologies - SalesForce, SQL Server, ZenDesk
 
-Junior DBA- **Remote Database Experts** <span style="float: right; ">Duration</span>  
+Junior DBA- **Remote Database Experts** <span style="float: right; ">Duration - Apr 2016 – May 2017</span>  
 Plans database upgrades by maintaining , evaluating, and improving a transaction processing model
 
-Assesses database performance by developing a protocol for measurement of results and         identification of problem areas.
+Assesses database performance by developing a protocol for measurement of results and identification of problem areas.
 
 Supports database performance by monitoring database performance; evaluating and resolving processing and programming problems; designing database management tools; answering user questions.
 
@@ -78,7 +78,7 @@ Accomplishes information systems and organization mission by completing related 
 
 Technologies - SQL Server, SSIS, SSRS, SSAS
 
-Junior Developer -  **IPipeline** <span style="float: right; ">Duration</span>  
+Junior Developer -  **IPipeline** <span style="float: right; ">Duration - Sep 2013 – Apr 2016</span>  
 – Junior Developer
 Working on systems maintenance patches and data fixes.
 
@@ -131,5 +131,3 @@ Coordinating the investigation of customer complaints
 
 Technologies - SQL Server, Visual Studio, JIRA, TFS
 
-
-### RECOGNITION & INTERESTS
