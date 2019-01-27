@@ -9,5 +9,5 @@ sitemap:
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>his blog will take about DevOps and Infastructure on-prem and in the cloud. I will be sharing some of my obstacles I have faced in the IT industry. Here is a link to my <strong> <a href="https://github.com/jclark0909?tab=repositories"> repositories</a> I follow and contribute too. </strong></p>
+	<p>his blog will take about DevOps and Infastructure on-prem and in the cloud. I will be sharing some of my obstacles I have faced in the IT industry. Here is a link to my <strong> <a href="https://github.com/jclark0909?tab=repositories"> repository</a> </strong></p>
 </div>
